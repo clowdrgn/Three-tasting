@@ -1,9 +1,9 @@
 # Site settings
-title: Clowdrgn Blog
+title: 樊晋龙的博客
 SEOTitle: 樊晋龙的博客 | Clowdrgn Blog
 header-img: img/home-bg.jpg
 email: 384592648@qq.com
-description: ""
+description: "缓行漫步，走走停停"
 keyword: ""
 url: "http://clowdrgn.github.io/Three-tasting"              # your host, for absolute URL
 baseurl: "/Three-tasting"         # for example, '/blog' if your blog hosted on 'host/blog'
@@ -12,11 +12,11 @@ baseurl: "/Three-tasting"         # for example, '/blog' if your blog hosted on 
 
 # SNS settings
 RSS: false
-weibo_username:     幽草暗光
-zhihu_username:     晋执
+weibo_username:     2876872151
+zhihu_username:     fan-jin-long-53
 github_username:    clowdrgn
 #twitter_username:  huxpro
-facebook_username:  樊晋龙
+facebook_username:  100011089667013
 
 
 
@@ -50,7 +50,7 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 #Duoshuo settings
-duoshuo_username: 虚极守静
+duoshuo_username: _clowdrgn_
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
