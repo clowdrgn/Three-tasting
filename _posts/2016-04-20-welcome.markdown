@@ -1,6 +1,13 @@
 ---
-layout: default
-title: 欢迎
+layout:     post
+title:      "欢迎"
+subtitle:   "第一篇"
+date:       2016-04-20
+author:     "樊晋龙"
+header-img: "img/post-bg-js-version.jpg"
+tags:
+    - 随手写
+    - 第一篇
 ---
 
 <h2>{{ page.title }}</h2>
