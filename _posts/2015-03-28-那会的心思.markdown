@@ -1,0 +1,24 @@
+---
+layout:     post
+title:      "那会的心思"
+subtitle:   "沙尘暴的一点想法"
+date:       2015-03-28
+author:     "樊晋龙"
+header-img: "img/shachenbao.jpg"
+tags:
+    - 随手写
+    - 日志
+    - 以前的
+---
+
+<h2>{{ page.title }}</h2>
+
+黄昏色花瓣与旧画里的新叶<br><br>
+瓷塑般的花狗目光呆沉<br><br>
+大地精灵飞扬跳跃<br><br>
+灯泡下的白天和夜晚<br><br>
+我们拿着复古色的颜料涂抹天空<br><br>
+天空轻轻的给这里盖上厚实的被子<br><br>
+还掖了掖被角<br>
+
+<p>{{ page.date | date_to_string }}</p>
