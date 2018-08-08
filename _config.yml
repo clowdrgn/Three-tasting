@@ -5,10 +5,10 @@ header-img: img/home-bg.jpg
 email: 384592648@qq.com
 description: "缓行漫步，走走停停"
 keyword: ""
-url: "http://clowdrgn.github.io/three-tasting"              # your host, for absolute URL
-baseurl: "/three-tasting"         # for example, '/blog' if your blog hosted on 'host/blog'
-#url: "www.fanjinlong.top"              # your host, for absolute URL
-#baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
+#url: "http://clowdrgn.github.io/three-tasting"              # your host, for absolute URL
+#baseurl: "/three-tasting"         # for example, '/blog' if your blog hosted on 'host/blog'
+url: "www.fanjinlong.top"              # your host, for absolute URL
+baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 # SNS settings
